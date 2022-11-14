@@ -1,0 +1,113 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.backg {
+    background-color: rgba(52,58,64,255);
+}
+
+.relative{
+    width: 100%;
+    filter: brightness(60%);
+    position: relative;
+    overflow: hidden;
+    height: 700px;
+}
+
+.absolute{
+    position: absolute;
+    font-size: 16px;
+    color: whitesmoke;
+    bottom: 40%;
+    text-align: end;
+    right: 6%;
+    width: 550px;
+    overflow: hidden;
+}
+
+.imgbanner{
+display: block;
+margin-top: auto;
+margin-bottom: auto;
+max-width: 100%;
+}
+.m1{
+    margin-top: 1em;
+}
+.m2{
+    margin-bottom: 0em;
+}
+.javascript {
+    font-size: 105%;
+    padding: 4px;
+    color: black;
+}
+.bussiness{
+    font-size: 105%;
+    padding: 4px;
+}
+
+.react {
+    font-size: 105%;
+    background-color: rgba(22,163,183,255);
+    color: white;
+}
+.cards {
+    padding: 15%;
+
+}
+.cardstext {
+    margin-top: auto;
+    font-size: large ;
+    font-weight: light;
+}
+.bsas{
+    font-size: 17.5px;
+}
+.button1{
+    background-color: rgb(41,167,68);
+    border-color:rgb(41,167,87) ;
+}
+#underline {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: black;
+}
+.m3 {
+    margin-left: 0ch;
+}
+.m4 {
+    right: 0%;
+    margin-right: 0;
+}
+.m5 {
+    text-align: left;
+    color: gray;
+}
+.form {
+    text-align: center;
+    padding-inline: 25%;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+}
+/*  */
+.button2{
+    background-color: rgb(150,201,62) !important;
+    color: white;
+    border-color: rgb(150,201,62) !important;
+}
+
+.nav-link{
+    color: white !important;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+.footer {
+    background-image: linear-gradient(to right, rgb(28,54,67), rgb(30,83,114)) !important;
+    font-size: smaller;
+    font-weight: 500;
+}
